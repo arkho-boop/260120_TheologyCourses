@@ -1,4 +1,4 @@
-# 260120_TheologyCourses
+# Theology Courses
 🐈‍⬛ Bleep bloop, time to study theology 🐈
 
 - Religious Literacy
