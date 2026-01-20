@@ -11,6 +11,12 @@
   - [Discussion: Distinction Between Devotional Expression and Study of Diverse Expressions](#discussion-distinction-between-devotional-expression-and-study-of-diverse-expressions)
   - [Answer and Further Commentary](#answer-and-further-commentary)
   - [Internal Diversity: Islam](#internal-diversity-islam)
+  - [Internal Diversity: Hinduism](#internal-diversity-hinduism)
+  - [Evolution and Change: Southern Baptist Convention Resolutions on Abortion](#evolution-and-change-southern-baptist-convention-resolutions-on-abortion)
+  - [Discussion of Reading on Southern Baptist Resolutions](#discussion-of-reading-on-southern-baptist-resolutions)
+  - [Embedded: Examples of Calendars and Monuments/Cultural Sites](#embedded-examples-of-calendars-and-monumentscultural-sites)
+  - [Monuments and Cultural Sites](#monuments-and-cultural-sites)
+  - [Video: The Danger of a Single Story](#video-the-danger-of-a-single-story)
 
 
 ---
@@ -155,19 +161,17 @@ You need to read only the two sections of the transcript that cover Turkey and M
 
 ---
 
-INTERNAL DIVERSITY: HINDUISM
+## Internal Diversity: Hinduism
 
-Let's now turn to another example representing the internal diversity within Hinduism.   Please read the following two articles on the epic Ramayana.  The first is an overview of the epic from Professor Vinay Lal from UCLA (University of California at Los Angeles.)  The second is a 2011 news story from the Sunday Guardian about how an influential essay entitled “300 Ramayanas” from the renowned scholar A.K. Ramanujan was removed from the B.A. syllabus of Delhi University.
+Let's now turn to another example representing the internal diversity within Hinduism.   Please read the following two articles on the epic Ramayana.  [The first is an overview of the epic from Professor Vinay Lal from UCLA (University of California at Los Angeles.)](https://www.sscnet.ucla.edu/southasia/Religions/texts/Ramaya.html)  The second is a [2011 news story from the Sunday Guardian](https://www.theguardian.com/books/2013/oct/11/daljit-nagra-rereading-ramayana) about how an influential essay entitled “300 Ramayanas” from the renowned scholar A.K. Ramanujan was removed from the B.A. syllabus of Delhi University.
 
 Keeping in mind your reactions to both the readings above and the video segments from The Muslims, please share your reflections in the discussion board.  What surprised you in these depictions?  What did you find compelling or challenging? Please post your response in the Discussion board and respond to the posts of at least two other people. 
 
-https://www.sscnet.ucla.edu/southasia/Religions/texts/Ramaya.html
-https://www.theguardian.com/books/2013/oct/11/daljit-nagra-rereading-ramayana
+---
 
-–
-
-EVOLUTION AND CHANGE: Southern Baptist Convention Resolutions on Abortion
+## Evolution and Change: Southern Baptist Convention Resolutions on Abortion
 In addition to being internally diverse, religions are living traditions that evolve and change in relationship to the dynamic lives of adherents in different social and historical time periods.  To illustrate this dynamic on a micro level, please examine the following selected resolutions on abortion that were passed at Southern Baptist Conventions in the United States over a 30 year period. Take note of what changed over that time period and what remained consistent. Pay special attention to the tone of the resolutions and what is highlighted. After reading, please respond to the discussion prompt on the next tab.  
+
 Resolution On Abortion, adopted at the SBC convention, June 1971:  (Historical note: This resolution was passed before the landmark Roe v Wade Supreme Court decision in 1973 supporting a woman's right to abortion without state regulation through the first trimester of pregnancy. See here for a description of the social and political context of this decision and its aftermath.)
 
 WHEREAS, Christians in the American society today are faced with difficult decisions about abortion; and 
@@ -175,6 +179,7 @@ WHEREAS, Some advocate that there be no abortion legislation, thus making the de
 WHEREAS, Others advocate no legal abortion, or would permit abortion only if the life of the mother is threatened; 
 Therefore, be it RESOLVED, that this Convention express the belief that society has a responsibility to affirm through the laws of the state a high view of the sanctity of human life, including fetal life, in order to protect those who cannot protect themselves; and 
 Be it further RESOLVED, That we call upon Southern Baptists to work for legislation that will allow the possibility of abortion under such conditions as rape, incest, clear evidence of severe fetal deformity, and carefully ascertained evidence of the likelihood of damage to the emotional, mental, and physical health of the mother
+
 
 Resolution On Abortion And Sanctity Of Human Life, adopted at the SBC convention, June 1974:
 
@@ -244,29 +249,37 @@ RESOLVED, That we lament and renounce statements and actions by previous Convent
 RESOLVED, That we humbly confess that the initial blindness of many in our Convention to the enormity of Roe v. Wade should serve as a warning to contemporary Southern Baptists of the subtlety of the spirit of the age in obscuring a biblical worldview; and be it further 
 RESOLVED, That we urge our Southern Baptist churches to remain vigilant in the protection of human life by preaching the whole counsel of God on matters of human sexuality and the sanctity of life, by encouraging and empowering Southern Baptists to adopt unwanted children, by providing spiritual, emotional, and financial support for women in crisis pregnancies, and by calling on our government officials to take action to protect the lives of women and children; and be it further 
 RESOLVED, That we express our appreciation to both houses of Congress for their passage of the Partial-Birth Abortion Ban Act of 2003, and we applaud President Bush for his commitment to sign this bill into law; and be it further RESOLVED, That we urge Congress to act swiftly to deliver this bill to President Bush for his signature; and be it finally RESOLVED, That we pray and work for the repeal of the Roe v. Wade decision and for the day when the act of abortion will be not only illegal, but also unthinkable.
-–
 
-DISCUSSION OF READING ON SOUTHERN BAPTIST RESOLUTIONS
+---
+
+## Discussion of Reading on Southern Baptist Resolutions
+
 In the discussion board, please name 1-2 things that changed in these resolutions over the 30 year period highlighted and 1-2 things that remained consistent.  Can you name other examples from other religious communities where religious convictions changed over time?  Please post in the Discussion board and respond to at least two of your peers.
-–
 
-EMBEDDED: EXAMPLES OF CALENDARS AND MONUMENTS/CULTURAL SITES 
+---
+
+## Embedded: Examples of Calendars and Monuments/Cultural Sites
 Along with internal diversity and change over time, another fundamental tenet of a religious studies approach is to recognize the ways that religions are embedded in human cultures and not isolated in a discrete private sphere.  We’ll examine many layers of this aspect of religious studies later in our module, but for now let's explore two simple ways to see how religion is embedded in culture by considering the calendar and national monuments or significant cultural sites. 
-We'll start with the calendar.  Find your own country calendar here . (See the scroll down list on top to find your country and press “show” for it to display.  Holidays and observances are listed below the monthly calendar.)  Which national holidays are recognized and which ones are not?  Are any related to religion?  What is the structure of the work/school week and what does this represent about historical and cultural values?  For example, in the United States where the government is secular, schools and municipal offices are closed on Sundays and Christmas day is a national holiday.  Compare this with India, also a secular democracy, where many Christian, Muslim, Hindu, and Buddhist holy days are recognized.  (See here for a calendar of many religious holidays, and here for definitions of holidays.)  Please post your responses to these prompts in the Discussion board and respond to the posts of at least two other peers.
-–
 
-MONUMENTS AND CULTURAL SITES 
+We'll start with the calendar.  Find your own country calendar here . (See the scroll down list on top to find your country and press “show” for it to display.  Holidays and observances are listed below the monthly calendar.)  Which national holidays are recognized and which ones are not?  Are any related to religion?  What is the structure of the work/school week and what does this represent about historical and cultural values?  For example, in the United States where the government is secular, schools and municipal offices are closed on Sundays and Christmas day is a national holiday.  
+
+Compare this with India, also a secular democracy, where many Christian, Muslim, Hindu, and Buddhist holy days are recognized.  (See here for a calendar of many religious holidays, and here for definitions of holidays.)  Please post your responses to these prompts in the Discussion board and respond to the posts of at least two other peers.
+
+---
+
+## Monuments and Cultural Sites
 A second easy way to recognize embeddedness is to consider national monuments or significant cultural sites.  
+
 For example, here at Harvard University, Memorial Church is a grand edifice that sits in a central location on the university campus.  
+
 It is a Protestant Christian church and similar Protestant Christian churches are found in central locations on college campus throughout the United States.  They are so common that their Protestantism merits little attention.  Imagine, however, if Memorial Church was, instead, Memorial Mosque or Temple or Gurdwara?  What if the original Native Americans who inhabited the land that the university now occupies had remained? Depending on the tradition represented, what would this signal about the history of the school and what do you imagine would be different about daily life today as a result? This imaginative exercise helps us “see” commonplace cultural representations and their religious significance in new ways.  
+
 Please find an image in your local community that represents this idea of the ways that religions are embedded in cultures and not isolated in a separate or private sphere of existence and post it in the discussion board (you'll find a link the Discussion page in the course navigation near the top of the page) with a brief description and commentary.  Respond to the posts of at least two of your peers.
 –
-
-VIDEO: THE DANGER OF A SINGLE STORY
+## Video: The Danger of a Single Story 
 Thank you all for your thoughtful engagement with the ideas and illustrations we've encountered here in our first day together. In closing, please view the following video of a TED talk given by the award winning Nigerian novelist Chimamanda Ngozi Adichie entitled The Danger of a Single Story.  Take note of how her presentation aligns with the ideas we've been exploring thus far.
 
-
-Chimamanda Ngozi Adichie: The danger of a single story | TED
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D9Ihs241zeg?si=nFQYqWpSteDwh4qS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 –
 
