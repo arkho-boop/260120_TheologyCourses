@@ -126,7 +126,7 @@ The right side of the drawing is really the background of the picture. The flann
 
 Mushfiq C.
 
-<img style="width:100%; height:auto;", alt="To_Myself-Sorry_I_am_not_sorry" src="https://github.com/user-attachments/assets/76732aa4-1bd5-462e-ac0b-1fab0690daa1" />
+<img width="1275" height="1650", alt="To_Myself-Sorry_I_am_not_sorry" src="https://github.com/user-attachments/assets/76732aa4-1bd5-462e-ac0b-1fab0690daa1" />
 
 Kristofer R.
 
