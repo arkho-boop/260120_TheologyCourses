@@ -26,6 +26,8 @@ Professor Moore
 
 ## Video: Introduction to the course
 
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D1_IntroductionToReligiousLiteracy/HARHDS322016-V001900_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
+
 [![]](https://github.com/arkho-boop/260120_TheologyCourses/blob/main/course_files/C1_ReligiousLiteracy/D1_IntroductionToReligiousLiteracy/HARHDS322016-V001900_DTH.mp4)
 
 HARHDS322016-V001900_DTH.mp4
