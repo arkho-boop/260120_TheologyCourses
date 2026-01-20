@@ -1,4 +1,5 @@
 # 260120_TheologyCourses
-I am the repo for theology courses.
+Bleep bloop, time to study theology :cat2:
 
-[Lesson 1](./course_markdowns/C1_ReligiousLiteracy/D1_IntroductionToReligiousLiteracy.md)
+- Religious Literacy
+  - [Day 1: Introduction to Religious Literacy](./course_markdowns/C1_ReligiousLiteracy/D1_IntroductionToReligiousLiteracy.md)
