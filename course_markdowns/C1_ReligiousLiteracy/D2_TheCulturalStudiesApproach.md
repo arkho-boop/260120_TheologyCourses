@@ -171,7 +171,7 @@ OFILI'S BLESSED VIRGIN MARY
 
 Here is another image of the Virgin Mary.  
 
-![Uploading ofili.png…]()
+<img width="627" height="843" alt="ofili" src="https://github.com/user-attachments/assets/eacdd37c-f169-4584-acba-d83469746884" />
 
 What three words best represent your response to this depiction?  Jot down your words for your own reference, then read the following articles from the New York Times about the controversies surrounding the painting when it was shown at the Brooklyn Museum of Art in New York, USA in 1999.
 
