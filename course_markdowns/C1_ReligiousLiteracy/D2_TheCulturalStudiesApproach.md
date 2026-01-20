@@ -31,7 +31,7 @@ Professor Moore
 
 ## Video: Introduction to Day 2
 
-HARHDS322016-V000400_DTH.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D2_TheCulturalStudiesApproach/HARHDS322016-V000400_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## Reading: Methodological Assumptions Part 2
 
@@ -61,7 +61,7 @@ Fifth, this approach highlights what cultural anthropologists know well: that cu
 
 ## Video: Situatedness
 
-The Cultural Studies Approach Day 2 Religious Literacy Tradition.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D2_TheCulturalStudiesApproach/The Cultural Studies Approach Day 2 Religious Literacy Tradition.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## Discussion: Method Document Part 2
 
@@ -95,7 +95,8 @@ For part two of the perception exercise, please comment on your thoughts regardi
 
 ## Video
 
-HARHDS322016-V000800_DTH.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D2_TheCulturalStudiesApproach/HARHDS322016-V000800_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
+
 
 ## Activity: Worldview Autobiography
 
@@ -143,7 +144,7 @@ I consider myself to be a humanist. I do not believe that religion defines us, b
 
 ## Video 
 
-HARHDS322016-V000600_DTH.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D2_TheCulturalStudiesApproach/HARHDS322016-V000600_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## Activity: Blessed Virgin Mary Exercise
 
