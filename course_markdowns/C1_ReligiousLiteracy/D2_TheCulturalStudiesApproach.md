@@ -126,7 +126,7 @@ The right side of the drawing is really the background of the picture. The flann
 
 Mushfiq C.
 
-To_Myself-Sorry_I_am_not_sorry.png
+<img width="1275" height="1650" alt="To_Myself-Sorry_I_am_not_sorry" src="https://github.com/user-attachments/assets/76732aa4-1bd5-462e-ac0b-1fab0690daa1" />
 
 Kristofer R.
 
@@ -154,15 +154,24 @@ Please indicate which (if any) of the following images are similar to the one th
 
 Image 1
 
+<img width="410" height="512" alt="Nossa_Senhora_das_Dores_-_Domingos_Sequeira" src="https://github.com/user-attachments/assets/e80af43b-91dc-46db-a81e-6f3b08b4482c" />
+
 Image 2
 
+![Virgen_de_guadalupe1](https://github.com/user-attachments/assets/c463e9dd-8235-4aca-8056-cdced026e7c2)
+
 Image 3
+
+![Vladimirskaya](https://github.com/user-attachments/assets/439ab20f-eb6d-4375-9391-26bc3027be02)
+
 
 ## Examples: Ofili's Blessed Virgin Mary
 
 OFILI'S BLESSED VIRGIN MARY
 
 Here is another image of the Virgin Mary.  
+
+![Uploading ofili.png…]()
 
 What three words best represent your response to this depiction?  Jot down your words for your own reference, then read the following articles from the New York Times about the controversies surrounding the painting when it was shown at the Brooklyn Museum of Art in New York, USA in 1999.
 
