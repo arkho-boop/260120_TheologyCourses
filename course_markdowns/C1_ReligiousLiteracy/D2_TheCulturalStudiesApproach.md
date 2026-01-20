@@ -175,13 +175,13 @@ Here is another image of the Virgin Mary.
 
 What three words best represent your response to this depiction?  Jot down your words for your own reference, then read the following articles from the New York Times about the controversies surrounding the painting when it was shown at the Brooklyn Museum of Art in New York, USA in 1999.
 
-About the Controversy: “Anger Over Work Evokes Anti-Catholic Shadow, and Mary's Power as Icon” 
+About the Controversy: [“Anger Over Work Evokes Anti-Catholic Shadow, and Mary's Power as Icon”](http://www.nytimes.com/1999/10/03/nyregion/anger-over-work-evokes-anti-catholic-shadow-and-mary-s-power-as-icon.html)
 
-Ofili’s Response to the Controversy: “Chris Ofili: British Artist Holds Fast to His Inspiration” 
+Ofili’s Response to the Controversy: [“Chris Ofili: British Artist Holds Fast to His Inspiration”](https://partners.nytimes.com/library/arts/092899ofili-brooklyn-museum.html) 
 
 Did hearing more about the content and context of the painting impact your perception?  If so, how?  If not, why not?
 
-Finally, read this recent article from the BBC: Chris Ofili: “Can Art Still Shock Us?”
+Finally, read this recent article from the BBC: Chris Ofili: [“Can Art Still Shock Us?”](http://www.bbc.com/culture/story/20141125-can-art-still-shock-us)
 
 Please post your reflections on the Ofili controversy and your own opinions regarding his painting “Blessed Virgin Mary.”  How does your own “situatedness” shape your response?  As always, please also respond to at least two of your peers.  
 
