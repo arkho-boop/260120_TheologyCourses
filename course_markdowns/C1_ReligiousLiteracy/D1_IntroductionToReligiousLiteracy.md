@@ -1,19 +1,21 @@
 # Day 1: Introduction to Religious Literacy
 
-<!--
-Source - https://stackoverflow.com/a
-Posted by Tum, modified by community. See post 'Timeline' for change history
-Retrieved 2026-01-20, License - CC BY-SA 4.0
--->
-
 - [Day 1: Introduction to Religious Literacy](#day-1-introduction-to-religious-literacy)
-      - [Table of contents](#table-of-contents)
-  - [Welcome {#welcome}](#welcome-welcome)
+  - [Welcome](#welcome)
   - [Video: Introduction to the course](#video-introduction-to-the-course)
+  - [Video: Meet Professor Moore](#video-meet-professor-moore)
+  - [Video: Introduction to Religious Studies](#video-introduction-to-religious-studies)
+  - [Video: Misunderstandings of Religion](#video-misunderstandings-of-religion)
+  - [Reading: Methodological Assumptions Part 1](#reading-methodological-assumptions-part-1)
+        - [METHODOLOGIAL ASSUMPTIONS AND ANALYTICAL FRAMEWORKS REGARDING RELIGION](#methodologial-assumptions-and-analytical-frameworks-regarding-religion)
+  - [Discussion: Distinction Between Devotional Expression and Study of Diverse Expressions](#discussion-distinction-between-devotional-expression-and-study-of-diverse-expressions)
+  - [Answer and Further Commentary](#answer-and-further-commentary)
+  - [Internal Diversity: Islam](#internal-diversity-islam)
+
 
 ---
 
-## Welcome {#welcome}
+## Welcome
 Welcome to Religious Literacy: Traditions and Scriptures! This course is the first in a series; it is followed by five courses that will build on the work we do together here. We on the teaching team are delighted to greet you and we look forward to introducing you to the material we've prepared for your engagement.  
 
 Before launching into the course content itself,  I want to say how excited I am to provide you all with multiple opportunities to interact with each other throughout the entire module.  In fact, one of the reasons that I was eager to offer this course in this venue is because I wanted to create a space for people with diverse worldviews and from diverse backgrounds and geographical regions to interact with one another in a constructive way about issues and ideas that too often divide us.  
@@ -24,27 +26,39 @@ Thank you for keeping these goals in mind, and let's begin our exploration toget
 
 Professor Moore
 
+---
+
 ## Video: Introduction to the course
 
 <video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D1_IntroductionToReligiousLiteracy/HARHDS322016-V001900_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
 
-[![]](https://github.com/arkho-boop/260120_TheologyCourses/blob/main/course_files/C1_ReligiousLiteracy/D1_IntroductionToReligiousLiteracy/HARHDS322016-V001900_DTH.mp4)
+---
 
-HARHDS322016-V001900_DTH.mp4
+## Video: Meet Professor Moore
 
-HARHDS322016-V002000_DTH.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D1_IntroductionToReligiousLiteracy/HARHDS322016-V002000_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
 
-HARHDS322016-V001300_DTH.mp4
+---
 
-HARHDS322016-V001700_DTH.mp4
+## Video: Introduction to Religious Studies
 
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D1_IntroductionToReligiousLiteracy/HARHDS322016-V001300_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
 
-READING: METHODOLOGICAL ASSUMPTIONS PART I
+---
+
+## Video: Misunderstandings of Religion
+
+Please view the video below that highlights the basic tenets of a religious studies approach. Next, we will read Part One of the Methods document. You’ll then have a chance to engage in a series of activities that further illuminate these frameworks and that provide opportunities for your interactions with these ideas and with each other. 
+
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D1_IntroductionToReligiousLiteracy/HARHDS322016-V001700_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
+
+---
+
+## Reading: Methodological Assumptions Part 1
 
 Now that you have watched the animation video highlighting central tenets of a religious studies approach to understanding religion, please read Part One of the Methods document (below).
 
-
-METHODOLOGIAL ASSUMPTIONS AND ANALYTICAL FRAMEWORKS REGARDING RELIGION
+##### METHODOLOGIAL ASSUMPTIONS AND ANALYTICAL FRAMEWORKS REGARDING RELIGION
 Part One
  
 Diane L. Moore
@@ -106,28 +120,40 @@ Critical to this definition is the importance of understanding religions and rel
 [2] For a full text compilation of all the Southern Baptist resolutions on abortion from 1971-2005, see www.johnstonsarchive.net/baptist/sbcabres.html.
 [3] See Charles Taylor, The Secular Age (Cambridge: Harvard University Press, 2007); J. Bryan Hehir, “Why Religion? Why Now?” in Timothy Samuel Shah, Alfred Stepan, and Monica Duffy Toft, eds., Rethinking Religion and World Affairs (NY: Oxford, 2012) pp. 15-24; José Casanova, “Rethinking Public Religions” in Shah, et. Al., eds., pp. 25-35; and Elizabeth Shakman Hurd, “The Politics of Secularism” in Shah, et. Al., pp. 36-54.
 
-–
+---
 
-DISCUSSION: DISCTINCTION BETWEEN DEVOTIONAL EXPRESSION AND STUDY OF DIVERSE EXPRESSIONS
+## Discussion: Distinction Between Devotional Expression and Study of Diverse Expressions
+
 Now that you've had the opportunity to review and respond to the ideas presented in the animation video and the methods document, let's look at each of the first four components of the method in a bit more depth.  Let's start with the assertion that it is important to make a distinction between an expression of religious conviction or belief  on the one hand, and the exploration or study of diverse devotional expressions on the other.  The following is an example that highlights this distinction. 
+
 In early 2016, Pope Francis was asked about the US Republican presidential candidate Donald Trump and Mr. Trump’s controversial comments about immigrants, including his vow to build a wall along the US-Mexico border to keep immigrants from illegally passing into the United States.  In his remarks, the Pope said “A person who thinks only about building walls, wherever they may be, and not building bridges, is not Christian…” (NYT)
 How might we understand or approach the Pope’s assertion from a religious literacy perspective? What might we seek to learn from both the Pope’s statement and Trump’s assertion that he is Christian? What questions might we ask about these positions?  If so, how?  If not, why not?  Share your answers in the discussion board and then move on to the next unit for an answer and further commentary.
-–
 
-ANSWER AND FURTHER COMMENTARY
-Is the Pope’s assertion true? Answer: It depends!  The Pope is making a theological assertion about how Christians should act. When confronted with Mr. Trump’s anti immigration rhetoric, he challenged it as fundamentally antithetical to his interpretation of Christian values and thus declared that anyone who espouses such beliefs “is not Christian.”  On the other hand, Mr. Trump is a self declared Presbyterian and thus Christian as a member of a Protestant Christian denomination.  Here the distinction between making a theological assertion of faith and the recognition that there are multiple “legitimate” or valid interpretations is represented.  It is important for the Pope or any person of faith to make value claims and judgments regarding how to interpret his or her religion.  It is critical, however, not to conflate a theological claim with a truth claim about the religion itself.  
+---
+
+## Answer and Further Commentary
+
+Is the Pope’s assertion true? Answer: It depends!  The Pope is making a theological assertion about how Christians should act. When confronted with Mr. Trump’s anti immigration rhetoric, he challenged it as fundamentally antithetical to his interpretation of Christian values and thus declared that anyone who espouses such beliefs “is not Christian.”  On the other hand, Mr. Trump is a self declared Presbyterian and thus Christian as a member of a Protestant Christian denomination.  Here the distinction between making a theological assertion of faith and the recognition that there are multiple “legitimate” or valid interpretations is represented.  It is important for the Pope or any person of faith to make value claims and judgments regarding how to interpret his or her religion.  It is critical, however, not to conflate a theological claim with a truth claim about the religion itself.
+
 So in summary, the Pope’s assertion is “true” to his interpretation of Christianity but not factually true given the diversity of Christian beliefs and practices.  The reality that he is a religious leader does not give his assertion more factual weight. Even if Mr. Trump was a Roman Catholic, he would still be a Christian even though the leader of the Roman Catholic Church said that his beliefs are not representative of the faith. 
+
 Along these same lines, it is wrong to look to a religious leader or practitioner as an “expert” in her or his tradition.  As a religious leader or practitioner, she or he has appropriately been trained in a particular theological or sectarian strand of the tradition that will root one’s faith in a specific interpretative lens.  The training the Pope received in seminary to be a priest did not, for example, expose him to a sympathetic or in depth study of other branches of Christianity such as the various sects of Protestantism or of Orthodox representations of the faith.  On the other hand, the nonsectarian study of Christianity entails the study of diverse expressions of the faith and is thus an altogether different type of training for a different purpose than the training religious leaders receive.  It is, of course, possible for a person to be trained as a religious leader and as a religious studies scholar, but the education related to each strand is different.  
+
 Can you think of examples when a person of faith is asked to represent his or her tradition as an expert?  A common one in schools is when teachers invite a local religious leader or adult member of a local religious community to represent Judaism, or Hinduism, or Islam to the class.  Hearing the experience of believers is always illuminating, and this impulse to engage with the lived experience of practitioners is understandable.  But when only one voice is represented, it reinforces the problematic notion that all Jews, Hindus, or Muslims are uniform in their beliefs.  An alternative would be to invite a panel representing diverse perspectives from within each religion.  Though it is impossible to ever represent a comprehensive view of any given religion, illustrating diversity represents the distinction between a devotional assertion of belief and the reality that all religious traditions are comprised of believers with diverse and sometimes antithetical interpretations of faith.   
+
 In this course, we will be exploring religion in general and scriptures in particular from a religious studies lens.  In this way, we will recognize the credibility of diverse representations within each tradition but not privilege one theological or devotional expression over others.  Rather than ask the question, which interpretation is “right” or “true,” we’ll be exploring what gives rise to these diverse interpretations and how they represent the dynamic social, historical, and political contexts of adherents.  In this way, we trust that you as participants will also recognize the credibility of diverse representations and respect the viewpoints of others in this class, even if you may find some of those viewpoints confusing or even offensive.  Studying diverse perspectives and working to understand how individual adherents come to believe as they do does not in itself challenge the credibility of your own devotional or worldview perspective.  Our focus is to deepen understanding, not to promote a particular assertion as more credible than others.  
-–
+
+---
+
+## Internal Diversity: Islam
 
 Building upon the distinction between a devotional assertion of faith and the study of diverse devotional assertions, we’ll turn now to consider how all religions are internally diverse in ways that make claims such as Christians believe... or Buddhists believe... problematic from a factual perspective.
-To illustrate internal diversity we’ll explore an example from Islam. First, please read two sections of the transcript from a documentary entitled The Muslims that was produced in 2002 by Frontline, a US public television series.
-You need to read only the two sections of the transcript that cover Turkey and Malaysia, which you will likely need to scroll down to locate on the page. Please take note of your reactions with special attention to how these portrayals represent the internal diversity of Muslims in differing social contexts.
-https://www.pbs.org/wgbh/pages/frontline/shows/muslims/etc/script.html
 
-–
+To illustrate internal diversity we’ll explore an example from Islam. First, please read two sections of the transcript from a documentary entitled *[The Muslims](https://www.pbs.org/wgbh/pages/frontline/shows/muslims/etc/script.html)* that was produced in 2002 by Frontline, a US public television series.
+
+You need to read only the two sections of the transcript that cover Turkey and Malaysia, which you will likely need to scroll down to locate on the page. Please take note of your reactions with special attention to how these portrayals represent the internal diversity of Muslims in differing social contexts.
+
+---
 
 INTERNAL DIVERSITY: HINDUISM
 
