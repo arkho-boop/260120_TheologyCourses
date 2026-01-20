@@ -7,7 +7,7 @@
   - [Video: Introduction to Religious Studies](#video-introduction-to-religious-studies)
   - [Video: Misunderstandings of Religion](#video-misunderstandings-of-religion)
   - [Reading: Methodological Assumptions Part 1](#reading-methodological-assumptions-part-1)
-        - [METHODOLOGIAL ASSUMPTIONS AND ANALYTICAL FRAMEWORKS REGARDING RELIGION](#methodologial-assumptions-and-analytical-frameworks-regarding-religion)
+      - [Methodological Assumptions and Analytical Frameworks Regarding Religion](#methodological-assumptions-and-analytical-frameworks-regarding-religion)
   - [Discussion: Distinction Between Devotional Expression and Study of Diverse Expressions](#discussion-distinction-between-devotional-expression-and-study-of-diverse-expressions)
   - [Answer and Further Commentary](#answer-and-further-commentary)
   - [Internal Diversity: Islam](#internal-diversity-islam)
@@ -17,6 +17,7 @@
   - [Embedded: Examples of Calendars and Monuments/Cultural Sites](#embedded-examples-of-calendars-and-monumentscultural-sites)
   - [Monuments and Cultural Sites](#monuments-and-cultural-sites)
   - [Video: The Danger of a Single Story](#video-the-danger-of-a-single-story)
+  - [Day 1 Learning Summary](#day-1-learning-summary)
 
 
 ---
@@ -64,7 +65,7 @@ Please view the video below that highlights the basic tenets of a religious stud
 
 Now that you have watched the animation video highlighting central tenets of a religious studies approach to understanding religion, please read Part One of the Methods document (below).
 
-##### METHODOLOGIAL ASSUMPTIONS AND ANALYTICAL FRAMEWORKS REGARDING RELIGION
+#### Methodological Assumptions and Analytical Frameworks Regarding Religion
 Part One
  
 Diane L. Moore
@@ -275,18 +276,24 @@ For example, here at Harvard University, Memorial Church is a grand edifice that
 It is a Protestant Christian church and similar Protestant Christian churches are found in central locations on college campus throughout the United States.  They are so common that their Protestantism merits little attention.  Imagine, however, if Memorial Church was, instead, Memorial Mosque or Temple or Gurdwara?  What if the original Native Americans who inhabited the land that the university now occupies had remained? Depending on the tradition represented, what would this signal about the history of the school and what do you imagine would be different about daily life today as a result? This imaginative exercise helps us “see” commonplace cultural representations and their religious significance in new ways.  
 
 Please find an image in your local community that represents this idea of the ways that religions are embedded in cultures and not isolated in a separate or private sphere of existence and post it in the discussion board (you'll find a link the Discussion page in the course navigation near the top of the page) with a brief description and commentary.  Respond to the posts of at least two of your peers.
-–
+
+---
+
 ## Video: The Danger of a Single Story 
 Thank you all for your thoughtful engagement with the ideas and illustrations we've encountered here in our first day together. In closing, please view the following video of a TED talk given by the award winning Nigerian novelist Chimamanda Ngozi Adichie entitled The Danger of a Single Story.  Take note of how her presentation aligns with the ideas we've been exploring thus far.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D9Ihs241zeg?si=nFQYqWpSteDwh4qS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/D9Ihs241zeg?si=nFQYqWpSteDwh4qS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-–
+---
 
-DAY 1 LEARNING SUMMARY
+## Day 1 Learning Summary
 Congratulations on nearly completing the first day of the Religious Literacy module!  For your final exercise, please offer a brief summary of your learning today by posting your response to the following prompts in the discussion board:
-Please name three things that you learned in this unit. Was there anything that you found especially compelling or challenging?  If so, please explain. 
+
+Please name three things that you learned in this unit. Was there anything that you found especially compelling or challenging?  If so, please explain.
+
 This "Learning Summary" will be a regular feature of the module and provides an opportunity for you to synthesize your learning after each day of the course.  This also provides the teaching team with useful feedback about your experiences, so thank you in advance for sharing your reflections.   
+
 Another regular feature of the module is what we call a "Self Report" which is a way for you to track your progress through the course.   After completing the "Learning Summary" please complete the "Self Report" questionnaire to end Day One.  
+
 Thanks again, and I look forward to your participation in the Discussion forum!
 
