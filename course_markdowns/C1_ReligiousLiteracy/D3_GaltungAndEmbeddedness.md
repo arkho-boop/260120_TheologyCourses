@@ -38,7 +38,7 @@ Professor Moore
 
 ## Video: Introduction to Day 3
 
-HARHDS322016-V002100_DTH.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D3_GaltungAndEmbeddedness/HARHDS322016-V002100_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## Assumptions About Human Nature and Violence
 
@@ -52,7 +52,7 @@ As we learned in Part Two of the Methods document reviewed in the last class, th
 
 ## Video: Three Kinds of Violence
 
-HARHDS322016-V002200_DTH.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D3_GaltungAndEmbeddedness/HARHDS322016-V002200_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## Readings: Methods Part 3
 
@@ -117,7 +117,7 @@ Now that you've had a chance to explore how Galtung's typologies of violence and
 
 ## Video: Galtung's Theory
 
-HARHDS322016-V000900_DTH.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D3_GaltungAndEmbeddedness/HARHDS322016-V000900_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## Nussbaum Preface
 
@@ -179,7 +179,8 @@ Please apply Galtung's Typologies of Violence and/or Peace to the example you ch
 
 ## Video: Intentions and Capacities
 
-HARHDS322016-V001100_DTH.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D3_GaltungAndEmbeddedness/HARHDS322016-V001100_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
+
 
 ## Examples: Nigeria Case Study
 
