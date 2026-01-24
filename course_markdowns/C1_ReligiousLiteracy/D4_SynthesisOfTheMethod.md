@@ -26,7 +26,8 @@ Professor Moore
 
 ## Video: Introduction to Day 4
 
-HARHDS322016-V000300_DTH.mp4
+
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D4_SynthesisOfTheMethod/HARHDS322016-V000300_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## Activity: Religious Literacy Project
 
@@ -46,7 +47,8 @@ Which country did you choose and why? What did you learn that surprised you?  Ho
 
 ## Video: Methods and Scripture
 
-HARHDS322016-V000500_DTH.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D4_SynthesisOfTheMethod/HARHDS322016-V000500_DTH.mp4" controls="controls" style="max-width: 100%;"></video>
+
 
 ## Examples: Interpretations of the Ramayana
 
