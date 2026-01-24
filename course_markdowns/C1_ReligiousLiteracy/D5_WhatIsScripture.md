@@ -1,6 +1,16 @@
 # Day 5: What is Scripture?
 
 - [Day 5: What is Scripture?](#day-5-what-is-scripture)
+  - [Welcome to Day 5](#welcome-to-day-5)
+  - [Video: Introduction to Day 5](#video-introduction-to-day-5)
+  - [Discussion: Imagine Scriptures](#discussion-imagine-scriptures)
+  - [Examples: Oral Tradition](#examples-oral-tradition)
+  - [Examples: Materiality and Scripture](#examples-materiality-and-scripture)
+  - [Discussion: Personal Response](#discussion-personal-response)
+  - [Video: eL Seed Calligraffiti](#video-el-seed-calligraffiti)
+  - [Activity: Field of Vision](#activity-field-of-vision)
+  - [Learning Summary](#learning-summary)
+
 
 ## Welcome to Day 5
 
