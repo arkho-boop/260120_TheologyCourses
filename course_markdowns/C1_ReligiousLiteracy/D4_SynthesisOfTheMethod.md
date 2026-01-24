@@ -4,6 +4,10 @@
   - [Welcome to Day 4](#welcome-to-day-4)
   - [Video: Introduction to Day 4](#video-introduction-to-day-4)
   - [Activity: Religious Literacy Project](#activity-religious-literacy-project)
+  - [Video: Methods and Scripture](#video-methods-and-scripture)
+  - [Examples: Interpretations of the Ramayana](#examples-interpretations-of-the-ramayana)
+  - [Case Study: Sufism, Music, and Controversy in Pakistan](#case-study-sufism-music-and-controversy-in-pakistan)
+  - [Learning Summary](#learning-summary)
 
 
 ## Welcome to Day 4
@@ -39,3 +43,34 @@ Please explore one of the Religious Literacy Project country profiles linked bel
 Discussion Questions on Country Profile:
 
 Which country did you choose and why? What did you learn that surprised you?  How does this representation of the role of religions in social, political, and cultural life enhance your understanding of historical and contemporary dynamics?  Please post your responses in the Discussion board and respond to the posts of at least two of your peers.
+
+## Video: Methods and Scripture
+
+HARHDS322016-V000500_DTH.mp4
+
+## Examples: Interpretations of the Ramayana
+
+CASE STUDY: Interpreting the Ramayana
+
+Let’s return to the Ramayana, the Hindu epic that we first learned about in day one.  Please start by rereading [the introductory article by Professor Vinay Lal](https://southasia.ucla.edu/) to refresh your memory. Next please read [this short case study](https://rpl.hds.harvard.edu/religion-context/case-studies/violence-peace/destruction-ayodhya-mosque) on the decades long dispute over a space deemed sacred to both Muslims and Hindus in Ayodhya, India. 
+
+Discussion:
+
+For this exercise, please note how issues of power and influence function in the history of how the Ramayana is interpreted and received.  What is at stake in this debate and how does this case study represent the themes we’ve been exploring such as internal diversity, evolution and change, and the ways that religions are not isolated from political, social, and cultural life? Please post your response in the Discussion forum and respond to the posts of at least two of your peers.
+
+## Case Study: Sufism, Music, and Controversy in Pakistan
+
+[The Rock Star and the Mullahs](https://vimeo.com/98242253) is a 53 minute documentary produced in 2003 about the lead singer Salman Ahmad from the Pakistani Rock Band Junoon.   Mr. Ahmad returned to his home in Pakistan to speak with conservative religious leaders who argue that music is forbidden in Islam. As you view the video, make special note of the different interpretations of the Qur'an that are represented as well as the issues surrounding what is deemed to be appropriate expressions of devotion.  
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/98242253?h=a4f2708534" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+
+Discussion:
+
+What captured your attention in this video?  Name at least one of the central controversies regarding interpretation and discuss how issues of power are at play.  Use Galtung's typologies to help identify underlying cultural norms and how they reinforce cultural forms of both violence and peace.  Please post your comments in the discussion board and respond to at least two of your peers.   
+
+## Learning Summary
+
+LEARNING SUMMARY
+
+Name three things that you learned from this unit. Was there anything that you found especially compelling or challenging?  If so, please share in the Discussion forum. 
