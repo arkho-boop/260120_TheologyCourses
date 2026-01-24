@@ -26,6 +26,6 @@ Use the following intro line: "Did you know...?" and complete the question with 
 
 Returning to the Liberation Theology case study from Day Three, comment on the similarities and differences between the assertion "Black Lives Matter" and the "preferential option for the poor" that framed the Latin American Liberation Theology movement.  Use Galtung's frameworks in your analysis.  
 
-Please post your commentary and do a **PEER REVIEW** of two other posts that will be randomly assigned to you. Once you respond to your peers, your own post will be made available for you to review with comments from two others. ***Commentaries should be no more than 500 words long. ***
+Please post your commentary and do a **PEER REVIEW** of two other posts that will be randomly assigned to you. Once you respond to your peers, your own post will be made available for you to review with comments from two others. ***Commentaries should be no more than 500 words long.***
 
 **Due Date**: You have until the last day of class, September 30, 2016 to complete the mid-term, but we encourage you to finish it quickly in order to keep moving forward with the rest of the class. 
