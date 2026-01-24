@@ -12,7 +12,7 @@ Professor Moore
 
 ## Video: Introduction to Day 5
 
-What is Scripture Day 5 Religious Literacy Traditions and Script.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D5_WhatIsScripture/What is Scripture Day 5 Religious Literacy Traditions and Script.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## Discussion: Imagine Scriptures
 
@@ -32,13 +32,13 @@ All of the religions represented in this course have deep traditions of experien
 
 **Shaykh Mustafa Ismail, Recitation of section of Surat al-Isra' (translated: The Night Journey)**
 
-Sheikh Mustafa Ismail Surah Israa الشيخ مصطفى اسماعيل سورة الإسر.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D5_WhatIsScripture/Sheikh Mustafa Ismail Surah Israa الشيخ مصطفى اسماعيل سورة الإسر.mp4" controls="controls" style="max-width: 100%;"></video>
 
 **Somaya Abdul Aziz Eddeb**
 
-Somaya Abdul Aziz Eddeb- Surat Al Fajr.mp4
+<video src="https://github.com/arkho-boop/260120_TheologyCourses/raw/main/course_files/C1_ReligiousLiteracy/D5_WhatIsScripture/Somaya Abdul Aziz Eddeb- Surat Al Fajr.mp4" controls="controls" style="max-width: 100%;"></video>
 
-2. The Vedas are the most ancient and authoritative Hindu texts, and it is through oral tradition of memorization and recitation that they have been preserved through millennia. In this next video we will listen to a short introduction and hear some examples of Vedic chanting in Hindu tradition. Please follow this link to watch [The Tradition of Vedic Chanting](https://www.youtube.com/watch?v=qPcasmn0cRU&t=87s), from UNESCO.
+1. The Vedas are the most ancient and authoritative Hindu texts, and it is through oral tradition of memorization and recitation that they have been preserved through millennia. In this next video we will listen to a short introduction and hear some examples of Vedic chanting in Hindu tradition. Please follow this link to watch [The Tradition of Vedic Chanting](https://www.youtube.com/watch?v=qPcasmn0cRU&t=87s), from UNESCO.
 
 
 The next two examples you will read, rather than hear, the relationship between text and oral tradition.  
