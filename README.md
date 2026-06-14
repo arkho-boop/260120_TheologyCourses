@@ -14,3 +14,4 @@
   - [Assessment 2: Final Assessment](./course_markdowns/C1_ReligiousLiteracy/A2_FinalAssessment.md)
 - Buddhism Through its Scriptures
   - [Day 1: Introduction, Refuge, and Reality](./course_markdowns/C2_BuddhismThroughItsScriptures/D1_IntroductionRefugeAndReality.md)
+  - [Day 2: Surveying the Canon](./course_markdowns/C2_BuddhismThroughItsScriptures/D2_SurveyingTheCanon.md)
