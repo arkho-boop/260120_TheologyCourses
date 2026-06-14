@@ -60,7 +60,7 @@ Let's start by getting to know each other. Below you can find a video with more 
 
 Please go back to the first section of today's class material and re-read the section on "Our Method." As you are reading, you will see there is a section, right in the beginning, on "Differentiations," which makes a distinction between 'devotional expression' and the study of religion. Pause over that section because you will find there a basic distinction that we want especially to keep in mind:
 
-    "First and foremost, scholars highlight the difference between the devotional expression of particular religious beliefs as normative and the nonsectarian study of religion that presumes the religious legitimacy of diverse normative claims. The importance of this distinction is that it recognizes the validity of normative theological assertions without equating them with universal truths about the tradition itself."
+``"First and foremost, scholars highlight the difference between the devotional expression of particular religious beliefs as normative and the nonsectarian study of religion that presumes the religious legitimacy of diverse normative claims. The importance of this distinction is that it recognizes the validity of normative theological assertions without equating them with universal truths about the tradition itself."``
 
 While always keeping this fundamental distinction first and foremost in our minds, we should also add now another distinction that is at work in the nonsectarian study of religion itself. It is also fundamental.
 
@@ -90,15 +90,15 @@ How can we catch even a glimpse of what Buddhist scriptures have meant in the li
 
 In his essay, "Comparative Religion: Whither and Why?", the great scholar of religion, Wilfred Cantwell Smith suggests a general way, especially when he says that "the study of religion is the study of persons" and "the proper study of [humankind] is by inference."
 
-    [T]he study of religion is the study of persons. Of all branches of human inquiry, hardly any deals with an area so personal as this. Faith is a quality of [human] lives. "All religions are new religions every morning. For religions do not exist up in the sky somewhere, elaborated, finished, and static; they exist in [human] hearts.
+``[T]he study of religion is the study of persons. Of all branches of human inquiry, hardly any deals with an area so personal as this. Faith is a quality of [human] lives. "All religions are new religions every morning. For religions do not exist up in the sky somewhere, elaborated, finished, and static; they exist in [human] hearts.``
 
-    We are studying, then, something not directly observable. let us be quite clear about this, and bold. Personally, I believe this to be true finally of all work in the humanities, and believe that we should not be plaintive about it or try somehow to circumvent it. It is our glory that we study not things but qualities of personal living.
+``We are studying, then, something not directly observable. let us be quite clear about this, and bold. Personally, I believe this to be true finally of all work in the humanities, and believe that we should not be plaintive about it or try somehow to circumvent it. It is our glory that we study not things but qualities of personal living.``
 
-    [It is a] fundamental error . . . to take the observable manifestations of some human concern as if they were the concern itself. The proper study of [humankind] is by inference.
+``[It is a] fundamental error . . . to take the observable manifestations of some human concern as if they were the concern itself. The proper study of [humankind] is by inference.``
 
-    The externals of religion--symbols, institutions, doctrines, practices--can be examined separately . . . . But these things are not in themselves religion, which lies, rather, in the area of what these mean to those involved. The student is making effective progress when he recognizes that he has to do not with religious systems basically but with religious persons: or at least something interior to persons.
+``The externals of religion--symbols, institutions, doctrines, practices--can be examined separately . . . . But these things are not in themselves religion, which lies, rather, in the area of what these mean to those involved. The student is making effective progress when he recognizes that he has to do not with religious systems basically but with religious persons: or at least something interior to persons.``
 
-    Wilfred Cantwell Smith, "Comparative Religion: Whither and Why?", pp 142-143
+``Wilfred Cantwell Smith, "Comparative Religion: Whither and Why?", pp 142-143``
 
 Wilfred Cantwell Smith makes many important points in these quotations; some of you may want to read his whole essay as part of your learning in this class. The idea that Buddhist scriptures are better seen as qualities of personal living rather than as authoritative books is very suggestive, its significance grows as one reflects on its implications.
 
