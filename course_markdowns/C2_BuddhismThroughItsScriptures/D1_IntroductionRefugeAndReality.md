@@ -60,7 +60,7 @@ Let's start by getting to know each other. Below you can find a video with more 
 
 Please go back to the first section of today's class material and re-read the section on "Our Method." As you are reading, you will see there is a section, right in the beginning, on "Differentiations," which makes a distinction between 'devotional expression' and the study of religion. Pause over that section because you will find there a basic distinction that we want especially to keep in mind:
 
-``"First and foremost, scholars highlight the difference between the devotional expression of particular religious beliefs as normative and the nonsectarian study of religion that presumes the religious legitimacy of diverse normative claims. The importance of this distinction is that it recognizes the validity of normative theological assertions without equating them with universal truths about the tradition itself."``
+>"First and foremost, scholars highlight the difference between the devotional expression of particular religious beliefs as normative and the nonsectarian study of religion that presumes the religious legitimacy of diverse normative claims. The importance of this distinction is that it recognizes the validity of normative theological assertions without equating them with universal truths about the tradition itself."
 
 While always keeping this fundamental distinction first and foremost in our minds, we should also add now another distinction that is at work in the nonsectarian study of religion itself. It is also fundamental.
 
@@ -90,15 +90,15 @@ How can we catch even a glimpse of what Buddhist scriptures have meant in the li
 
 In his essay, "Comparative Religion: Whither and Why?", the great scholar of religion, Wilfred Cantwell Smith suggests a general way, especially when he says that "the study of religion is the study of persons" and "the proper study of [humankind] is by inference."
 
-``[T]he study of religion is the study of persons. Of all branches of human inquiry, hardly any deals with an area so personal as this. Faith is a quality of [human] lives. "All religions are new religions every morning. For religions do not exist up in the sky somewhere, elaborated, finished, and static; they exist in [human] hearts.``
-
-``We are studying, then, something not directly observable. let us be quite clear about this, and bold. Personally, I believe this to be true finally of all work in the humanities, and believe that we should not be plaintive about it or try somehow to circumvent it. It is our glory that we study not things but qualities of personal living.``
-
-``[It is a] fundamental error . . . to take the observable manifestations of some human concern as if they were the concern itself. The proper study of [humankind] is by inference.``
-
-``The externals of religion--symbols, institutions, doctrines, practices--can be examined separately . . . . But these things are not in themselves religion, which lies, rather, in the area of what these mean to those involved. The student is making effective progress when he recognizes that he has to do not with religious systems basically but with religious persons: or at least something interior to persons.``
-
-``Wilfred Cantwell Smith, "Comparative Religion: Whither and Why?", pp 142-143``
+>[T]he study of religion is the study of persons. Of all branches of human inquiry, hardly any deals with an area so personal as this. Faith is a quality of [human] lives. "All religions are new religions every morning. For religions do not exist up in the sky somewhere, elaborated, finished, and static; they exist in [human] hearts.
+>
+>We are studying, then, something not directly observable. let us be quite clear about this, and bold. Personally, I believe this to be true finally of all work in the humanities, and believe that we should not be plaintive about it or try somehow to circumvent it. It is our glory that we study not things but qualities of personal living.
+>
+>[It is a] fundamental error . . . to take the observable manifestations of some human concern as if they were the concern itself. The proper study of [humankind] is by inference.
+>
+>The externals of religion--symbols, institutions, doctrines, practices--can be examined separately . . . . But these things are not in themselves religion, which lies, rather, in the area of what these mean to those involved. The student is making effective progress when he recognizes that he has to do not with religious systems basically but with religious persons: or at least something interior to persons.
+>
+>Wilfred Cantwell Smith, "Comparative Religion: Whither and Why?", pp 142-143
 
 Wilfred Cantwell Smith makes many important points in these quotations; some of you may want to read his whole essay as part of your learning in this class. The idea that Buddhist scriptures are better seen as qualities of personal living rather than as authoritative books is very suggestive, its significance grows as one reflects on its implications.
 
@@ -135,7 +135,7 @@ The reading as a whole is one way of presenting the Buddha's teaching. Some of y
 
 Note how the author says, at the end of his Preface,
 
-    My hope is that this introduction will help answer many of the questions that newcomers bring to Buddhism, and will spark new questions in their minds as they contemplate the possibility of developing within their own lives the qualities of refuge exemplified by the Triple Gem.
+>My hope is that this introduction will help answer many of the questions that newcomers bring to Buddhism, and will spark new questions in their minds as they contemplate the possibility of developing within their own lives the qualities of refuge exemplified by the Triple Gem.
 
 You might pause and consider the carefully-chosen words in the last clause: "contemplate the possibility of developing within their own lives the qualities of refuge . . . ." What do you think a quality of refuge might look like when it is developed in a human life?
 
@@ -147,14 +147,14 @@ You might add to what Thanissaro Bhikkhu says, the following insights of Bhikkhu
 
 The Buddha's teaching can be thought of as a kind of building with its own distinct foundation, stories, stairs, and roof. Like any other building the teaching also has a door, and in order to enter it we have to enter through this door. The door of entrance to the teaching of the Buddha is the going for refuge to the Triple Gem — that is, to the Buddha as the fully enlightened teacher, to the Dhamma as the truth taught by him, and to the Sangha as the community of his noble disciples. From ancient times to the present the going for refuge has functioned as the entrance way to the dispensation of the Buddha, giving admission to the rest of the teaching from its lowermost story to its top. All those who embrace the Buddha's teaching do so by passing through the door of taking refuge, while those already committed regularly reaffirm their conviction by making the same threefold profession:
 
-    Buddham saranam gacchami
-    I go for refuge to the Buddha;
-
-    Dhammam saranam gacchami
-    I go for refuge to the Dhamma;
-
-    Sangham saranam gacchami
-    I go for refuge to the Sangha.
+>Buddham saranam gacchami
+>I go for refuge to the Buddha;
+>
+>Dhammam saranam gacchami
+>I go for refuge to the Dhamma;
+>
+>Sangham saranam gacchami
+>I go for refuge to the Sangha.
 
 As slight and commonplace as this step might seem, especially in comparison with the lofty achievements lying beyond, its importance should never be underestimated, as it is this act which imparts direction and forward momentum to the entire practice of the Buddhist path. Since the going for refuge plays such a crucial role it is vital that the act be properly understood both in its own nature and in its implications for future development along the path.
 
@@ -243,69 +243,69 @@ Here, however, we want to continue practicing how to learn by inferring, but ins
 
 Begin by reading the parable below and then continue with the discussion exercises in the next segment.
 
-    Suppose there was a stretch of steep bad road,
-
-    in a remote wasteland with many harmful beasts,
-
-    a place moreover without water or grass,
-
-    one dreaded by people.
-
-    A group of countless thousands and ten thousands
-
-    wanted to pass over this steep road,
-
-    but the road was very long and far-stretching,
-
-    extended five hundred yojanas.
-
-    At this time there was a leader,
-
-    well informed, possessing wisdom,
-
-    of clear understanding and determined mind,
-
-    capable of saving endangered persons from manifold difficulties.
-
-    The members of the group were all weary and disheartened
-
-    and said to their leader,
-
-    "We are now exhausted with fatigue
-
-    and wish at this point to turn around and go back."
-
-    The leader thought to himself,
-
-    These people are truly pitiful!
-
-    Why do the wish to turn back
-
-    and miss the many rare treasures ahead?
-
-    At that time he thought of an expedient means,
-
-    deciding to exercise his transcendental powers.
-
-    He conjured up a great walled city
-
-    and adorned its mansions,
-
-    surrounding them with gardens and groves,
-
-    channels of flowing water, ponds and lakes,
-
-    with double gates and tall towers and pavilions,
-
-    all filled with men and women.
-
-    As soon as he had created this illusion,
-
-    he comforted the group, saying, "Have no fear-
-
-    you can enter this city
-
-    and each amuse himself as he pleases."
+>Suppose there was a stretch of steep bad road,
+>
+>in a remote wasteland with many harmful beasts,
+>
+>a place moreover without water or grass,
+>
+>one dreaded by people.
+>
+>A group of countless thousands and ten thousands
+>
+>wanted to pass over this steep road,
+>
+>but the road was very long and far-stretching,
+>
+>extended five hundred yojanas.
+>
+>At this time there was a leader,
+>
+>well informed, possessing wisdom,
+>
+>of clear understanding and determined mind,
+>
+>capable of saving endangered persons from manifold difficulties.
+>
+>The members of the group were all weary and disheartened
+>
+>and said to their leader,
+>
+>"We are now exhausted with fatigue
+>
+>and wish at this point to turn around and go back."
+>
+>The leader thought to himself,
+>
+>These people are truly pitiful!
+>
+>Why do the wish to turn back
+>
+>and miss the many rare treasures ahead?
+>
+>At that time he thought of an expedient means,
+>
+>deciding to exercise his transcendental powers.
+>
+>He conjured up a great walled city
+>
+>and adorned its mansions,
+>
+>surrounding them with gardens and groves,
+>
+>channels of flowing water, ponds and lakes,
+>
+>with double gates and tall towers and pavilions,
+>
+>all filled with men and women.
+>
+>As soon as he had created this illusion
+>
+>he comforted the group, saying, "Have no fear-
+>
+>you can enter this city
+>
+>and each amuse himself as he pleases."
 
 ---
 
