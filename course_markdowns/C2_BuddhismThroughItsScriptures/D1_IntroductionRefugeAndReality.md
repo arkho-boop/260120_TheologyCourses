@@ -18,6 +18,7 @@
   - [Video: Day 1 Summary](#video-day-1-summary)
 
 
+
 ---
 
 ## Introduction to Day 1
