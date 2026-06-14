@@ -12,3 +12,5 @@
   - [Day 7: Interpreting Scripture](./course_markdowns/C1_ReligiousLiteracy/D7_InterpretingScripture.md)
   - [Day 8: The Lens of Scripture](./course_markdowns/C1_ReligiousLiteracy/D8_TheLensOfScripture.md)
   - [Assessment 2: Final Assessment](./course_markdowns/C1_ReligiousLiteracy/A2_FinalAssessment.md)
+- Buddhism Through its Scriptures
+  - [Day 1: Introduction, Refuge, and Reality](./course_markdowns/C2_BuddhismThroughItsScriptures/D1_IntroductionRefugeAndReality.md)
