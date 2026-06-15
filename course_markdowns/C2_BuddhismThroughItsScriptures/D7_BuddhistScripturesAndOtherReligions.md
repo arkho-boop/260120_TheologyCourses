@@ -1,7 +1,23 @@
 # Day 7: Buddhist Scriptures and Other Religions
+
 - [Day 7: Buddhist Scriptures and Other Religions](#day-7-buddhist-scriptures-and-other-religions)
   - [Welcome to Day 7](#welcome-to-day-7)
   - [Video: Introduction to Day 7](#video-introduction-to-day-7)
+  - [Reading: Buddhist Attitudes to Brahmanical Scriptures](#reading-buddhist-attitudes-to-brahmanical-scriptures)
+  - [Reading: Buddhist Attitudes to Brahmanical Rituals](#reading-buddhist-attitudes-to-brahmanical-rituals)
+  - [Discussion: Buddhist Attitudes to Brahmanical Scriptures and Rituals](#discussion-buddhist-attitudes-to-brahmanical-scriptures-and-rituals)
+  - [Reading: Local Supernaturalism in Thailand](#reading-local-supernaturalism-in-thailand)
+  - [Reading: Buddhist Attitudes to Local Supernaturalism in India](#reading-buddhist-attitudes-to-local-supernaturalism-in-india)
+  - [Reading: Buddhism and Shinto in Japan](#reading-buddhism-and-shinto-in-japan)
+  - [Discussion: Buddhism and Local Supernaturalisms](#discussion-buddhism-and-local-supernaturalisms)
+  - [Reading: Buddhist Scriptures and Islam](#reading-buddhist-scriptures-and-islam)
+  - [Optional Video and Reading: The Kalacakra Ritual](#optional-video-and-reading-the-kalacakra-ritual)
+  - [Reading: Zen Monks Reading The New Testament](#reading-zen-monks-reading-the-new-testament)
+  - [Reading: The Dalai Lama on a Passage from The New Testament](#reading-the-dalai-lama-on-a-passage-from-the-new-testament)
+  - [Discussion: Buddhists Reading the New Testament](#discussion-buddhists-reading-the-new-testament)
+  - [Learning Summary](#learning-summary)
+
+
 ---
 
 ## Welcome to Day 7
