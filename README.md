@@ -19,3 +19,4 @@
   - [Day 4: Scriptures and Transformation](./course_markdowns/C2_BuddhismThroughItsScriptures/D4_ScripturesAndTransformation.md)
   - [Assessment 1: Midterm](./course_markdowns/C2_BuddhismThroughItsScriptures/A1_Midterm.md)
   - [Day 5: Scriptures and Focused Attention](./course_markdowns/C2_BuddhismThroughItsScriptures/D5_ScripturesAndFocusedAttention.md)
+  - [Day 6: Buddhist Scriptures and Women](./course_markdowns/C2_BuddhismThroughItsScriptures/D6_BuddhistScripturesAndWomen.md)
