@@ -21,4 +21,5 @@
   - [Day 5: Scriptures and Focused Attention](./course_markdowns/C2_BuddhismThroughItsScriptures/D5_ScripturesAndFocusedAttention.md)
   - [Day 6: Buddhist Scriptures and Women](./course_markdowns/C2_BuddhismThroughItsScriptures/D6_BuddhistScripturesAndWomen.md)
   - [Day 7: Buddhist Scriptures and Other Religions](./course_markdowns/C2_BuddhismThroughItsScriptures/D7_BuddhistScripturesAndOtherReligions.md)
-  - 
+  - [Day 8: How Buddhist Scriptures Have Changed](./course_markdowns/C2_BuddhismThroughItsScriptures/D8_HowBuddhistScripturesHaveChanged.md)
+  - [Assessment 2: Final Exam](./course_markdowns/C2_BuddhismThroughItsScriptures/A2_FinalExam.md)
