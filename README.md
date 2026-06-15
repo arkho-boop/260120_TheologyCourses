@@ -17,3 +17,5 @@
   - [Day 2: Surveying the Canon](./course_markdowns/C2_BuddhismThroughItsScriptures/D2_SurveyingTheCanon.md)
   - [Day 3: Dealing with Inconsistencies](./course_markdowns/C2_BuddhismThroughItsScriptures/D3_DealingWithInconsistencies.md)
   - [Day 4: Scriptures and Transformation](./course_markdowns/C2_BuddhismThroughItsScriptures/D4_ScripturesAndTransformation.md)
+  - [Assessment 1: Midterm](./course_markdowns/C2_BuddhismThroughItsScriptures/A1_Midterm.md)
+  - [Day 5: Scriptures and Focused Attention](./course_markdowns/C2_BuddhismThroughItsScriptures/D5_ScripturesAndFocusedAttention.md)
