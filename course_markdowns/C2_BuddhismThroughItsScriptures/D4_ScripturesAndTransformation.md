@@ -40,7 +40,7 @@ That's what we are going to try to do in today's class.
 
 ## Exercise: Seeing Buddhist Scriptures in Manuscripts and Books
 
-<img width="2102" height="1083" alt="image" src="https://github.com/user-attachments/assets/3db79dd9-ebe6-4709-966a-dca9aacf2118" />
+<img width=100% alt="image" src="https://github.com/user-attachments/assets/3db79dd9-ebe6-4709-966a-dca9aacf2118" />
 
 Buddhist scriptures enter the world as objects to be seen and to be touched, in the form of manuscripts and books. Quite often, these manuscripts and books were objects of great beauty and preciousness. Unusual materials, including gold and silk, were used in crafting them, special forms of calligraphy were also often used in writing down the texts.
 
