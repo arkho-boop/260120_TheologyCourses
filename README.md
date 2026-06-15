@@ -20,3 +20,5 @@
   - [Assessment 1: Midterm](./course_markdowns/C2_BuddhismThroughItsScriptures/A1_Midterm.md)
   - [Day 5: Scriptures and Focused Attention](./course_markdowns/C2_BuddhismThroughItsScriptures/D5_ScripturesAndFocusedAttention.md)
   - [Day 6: Buddhist Scriptures and Women](./course_markdowns/C2_BuddhismThroughItsScriptures/D6_BuddhistScripturesAndWomen.md)
+  - [Day 7: Buddhist Scriptures and Other Religions](./course_markdowns/C2_BuddhismThroughItsScriptures/D7_BuddhistScripturesAndOtherReligions.md)
+  - 
