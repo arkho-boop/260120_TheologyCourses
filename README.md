@@ -16,3 +16,4 @@
   - [Day 1: Introduction, Refuge, and Reality](./course_markdowns/C2_BuddhismThroughItsScriptures/D1_IntroductionRefugeAndReality.md)
   - [Day 2: Surveying the Canon](./course_markdowns/C2_BuddhismThroughItsScriptures/D2_SurveyingTheCanon.md)
   - [Day 3: Dealing with Inconsistencies](./course_markdowns/C2_BuddhismThroughItsScriptures/D3_DealingWithInconsistencies.md)
+  - [Day 4: Scriptures and Transformation](./course_markdowns/C2_BuddhismThroughItsScriptures/D4_ScripturesAndTransformation.md)
