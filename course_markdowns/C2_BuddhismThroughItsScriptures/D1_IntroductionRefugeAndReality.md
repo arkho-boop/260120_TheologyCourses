@@ -221,8 +221,8 @@ If you want to go further and hear a Buddhist sermon on the meaning of taking re
 
 ## Exercise: Refugee Images
 
-<img width=100% alt="image_1" src="https://github.com/user-attachments/assets/de435719-091d-4aa7-a1bd-a312ed812f78" />
-<img width=100% alt="image_2" src="https://github.com/user-attachments/assets/53c7e7df-d33f-4f78-b94a-f71a15d3c723" />
+<img style="max-width: 100%;" alt="image_1" src="https://github.com/user-attachments/assets/de435719-091d-4aa7-a1bd-a312ed812f78" />
+<img style="max-width: 100%;" alt="image_2" src="https://github.com/user-attachments/assets/53c7e7df-d33f-4f78-b94a-f71a15d3c723" />
 
 
 This is also an exercise in "learning by inferring."
